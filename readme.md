@@ -3,7 +3,7 @@ Web-приложение, которое отображает курс валю�
 
 
 
-#### SSH
+#### crontab string
 ```bash
 0 0 * * * cd /path/to/your/project && python manage.py collect_rates
 ```
